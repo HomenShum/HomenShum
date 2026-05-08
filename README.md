@@ -8,6 +8,37 @@ I build agentic workflow infrastructure: local-first workspaces, public research
 [![TypeScript](https://img.shields.io/badge/TypeScript-workspaces-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://github.com/HomenShum?tab=repositories&q=&type=source&language=typescript)
 [![Python](https://img.shields.io/badge/Python-automation-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/HomenShum?tab=repositories&q=&type=source&language=python)
 
+## Start Here
+
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/HomenShum/nodebench-ai">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=HomenShum&repo=nodebench-ai&theme=transparent&hide_border=true&title_color=4F46E5&text_color=334155&icon_color=10B981" alt="NodeBench AI repo card" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/HomenShum/parity-studio">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=HomenShum&repo=parity-studio&theme=transparent&hide_border=true&title_color=4F46E5&text_color=334155&icon_color=10B981" alt="Parity Studio repo card" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/HomenShum/gmail-workspace-public">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=HomenShum&repo=gmail-workspace-public&theme=transparent&hide_border=true&title_color=4F46E5&text_color=334155&icon_color=10B981" alt="Gmail Workspace public repo card" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/HomenShum/easier-to-read-submissions">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=HomenShum&repo=easier-to-read-submissions&theme=transparent&hide_border=true&title_color=4F46E5&text_color=334155&icon_color=10B981" alt="Easier to Read Submissions repo card" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+These four projects are the cleanest route through my current work: public research infrastructure, UI parity tooling, private-context workflow automation, and readable agent/dev handoffs.
+
 ## What I Build
 
 My strongest work sits at the intersection of applied AI, workflow software, and real operating pain:
@@ -84,4 +115,3 @@ Open [gmail-workspace-public](https://github.com/HomenShum/gmail-workspace-publi
 Open [parity-studio](https://github.com/HomenShum/parity-studio) if you want UI automation, parity, and verification.
 
 Open [easier-to-read-submissions](https://github.com/HomenShum/easier-to-read-submissions) if you want to see how I package work so another human or coding agent can inspect it quickly.
-
