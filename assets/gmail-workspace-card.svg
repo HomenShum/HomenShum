@@ -1,0 +1,15 @@
+<svg width="520" height="168" viewBox="0 0 520 168" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">gmail-workspace-public</title>
+  <desc id="desc">Public-safe Gmail command center for inbox lanes, job triage, pinned context, and private agent workflows.</desc>
+  <rect x="1" y="1" width="518" height="166" rx="14" fill="#F8FAFC" stroke="#D8DEE9" stroke-width="2"/>
+  <circle cx="35" cy="34" r="12" fill="#F59E0B"/>
+  <text x="58" y="39" fill="#0F172A" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="22" font-weight="700">gmail-workspace-public</text>
+  <text x="24" y="74" fill="#475569" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15">Public-safe local-first Gmail command center for</text>
+  <text x="24" y="96" fill="#475569" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15">inbox lanes, job triage, pinned context, and agents.</text>
+  <rect x="24" y="120" width="92" height="24" rx="12" fill="#EEF2FF"/>
+  <text x="42" y="137" fill="#4338CA" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="600">TypeScript</text>
+  <rect x="124" y="120" width="82" height="24" rx="12" fill="#FFF7ED"/>
+  <text x="145" y="137" fill="#C2410C" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="600">Gmail</text>
+  <rect x="214" y="120" width="104" height="24" rx="12" fill="#ECFDF5"/>
+  <text x="232" y="137" fill="#047857" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="600">Local-first</text>
+</svg>

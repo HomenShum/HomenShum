@@ -14,24 +14,24 @@ I build agentic workflow infrastructure: local-first workspaces, public research
   <tr>
     <td width="50%">
       <a href="https://github.com/HomenShum/nodebench-ai">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=HomenShum&repo=nodebench-ai&theme=transparent&hide_border=true&title_color=4F46E5&text_color=334155&icon_color=10B981" alt="NodeBench AI repo card" />
+        <img src="assets/nodebench-card.svg" alt="NodeBench AI repo card" />
       </a>
     </td>
     <td width="50%">
       <a href="https://github.com/HomenShum/parity-studio">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=HomenShum&repo=parity-studio&theme=transparent&hide_border=true&title_color=4F46E5&text_color=334155&icon_color=10B981" alt="Parity Studio repo card" />
+        <img src="assets/parity-card.svg" alt="Parity Studio repo card" />
       </a>
     </td>
   </tr>
   <tr>
     <td width="50%">
       <a href="https://github.com/HomenShum/gmail-workspace-public">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=HomenShum&repo=gmail-workspace-public&theme=transparent&hide_border=true&title_color=4F46E5&text_color=334155&icon_color=10B981" alt="Gmail Workspace public repo card" />
+        <img src="assets/gmail-workspace-card.svg" alt="Gmail Workspace public repo card" />
       </a>
     </td>
     <td width="50%">
       <a href="https://github.com/HomenShum/easier-to-read-submissions">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=HomenShum&repo=easier-to-read-submissions&theme=transparent&hide_border=true&title_color=4F46E5&text_color=334155&icon_color=10B981" alt="Easier to Read Submissions repo card" />
+        <img src="assets/submissions-card.svg" alt="Easier to Read Submissions repo card" />
       </a>
     </td>
   </tr>
