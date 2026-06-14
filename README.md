@@ -4,6 +4,10 @@
 
 <p align="center"><em>A career, compiled: banking/finance → data engineering → agentic AI, converging on human-agent collaboration systems where the agent leaves receipts.</em></p>
 
+<p align="center"><sub>
+<b>Meta</b> · agentic QA (PQX) &nbsp;·&nbsp; <b>JPMorgan</b> · 3.5 yrs, credit + agentic-RAG over 100k+ docs &nbsp;·&nbsp; <b>Ideaflow</b> &nbsp;·&nbsp; Founder, <b>NodeBench&nbsp;AI</b> &nbsp;·&nbsp; UC&nbsp;Santa&nbsp;Barbara &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/homen-shum/">full&nbsp;history&nbsp;↗</a>
+</sub></p>
+
 <p align="center">
   <a href="https://github.com/HomenShum/noderoom"><img src="https://img.shields.io/badge/flagship-NodeRoom-111?style=flat" alt="NodeRoom"></a>
   <a href="https://www.linkedin.com/in/homen-shum/"><img src="https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -80,9 +84,9 @@ flowchart LR
 
 Five capability buckets, each load-bearing in the work above:
 
-- **Banking & diligence** — JPM, startup diligence, ParselyFi: turning messy research into structured, *cited* diligence sheets, runway/milestone models. The reason NodeRoom is a War Room, not a toy.
+- **Banking & diligence** — 3.5 yrs at JPMorgan: credit analysis (72 deals, ~$800M, 270 models) plus "LLMsuite," an agentic-RAG diligence tool over 100k+ documents. Turning messy research into structured, *cited* sheets and risk models — the reason NodeRoom is a War Room, not a toy.
 - **Data engineering** — pipelines, schemas, reactive runtimes (Convex), durable streaming. The plumbing under every live room and report.
-- **Agentic AI & evals** — grounded search, tool loops, versioned model deltas, LLM-as-a-Judge scoring, scenario-based tests. Agents that get checked, not trusted.
+- **Agentic AI & evals** — agentic QA at Meta (PQX) and eval pipelines at Ideaflow: grounded search, tool loops, versioned model deltas, LLM-as-a-Judge scoring, scenario-based tests. Agents that get checked, not trusted — the harness matters more than the model.
 - **Healthcare / regulated workflows** — prior-auth auto-fill with validation + eval: structured extraction where being wrong has consequences.
 - **Product engineering** — Next.js / React / TS surfaces, UI parity harnesses, reproducible demos. The artifacts people actually click.
 
