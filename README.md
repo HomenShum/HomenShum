@@ -27,10 +27,10 @@
 ---
 
 <!--
-HERO — a static SVG (assets/noderoom-hero.svg) renders now so the profile looks finished today.
-When you record the real walkthrough GIF, save it as assets/noderoom-hero.gif and change the <img src> below from .svg to .gif.
+HERO — real walkthrough GIF (assets/noderoom-hero.gif): the "Live Startup Diligence War Room", encoded from docs/walkthroughs/startup-diligence-war-room.mp4 (t3–t17, 820px, 10fps).
+A lighter static fallback still lives at assets/noderoom-hero.svg if you ever want it.
 
-Capture the "Live Startup Diligence War Room" in NodeRoom (~10-15s, 2x speed, no audio, ≤820px, seamless loop).
+Original capture notes (kept for reference): ~10-15s, no audio, ≤820px, seamless loop.
 Capture rig: Playwright drives a real session → Remotion frames → ffmpeg to GIF (so the hero doubles as a smoke test — record it the way you ship it).
 
   Beat 1 — THE ROOM IS ALIVE: open on the shared diligence sheet with TWO human cursors + at least one NodeAgent badge in the same room. A NodeAgent cell visibly fills ("Series A · $12M · led by ___") while a human types in an adjacent cell. Coexistence, not takeover.
@@ -42,7 +42,7 @@ Capture rig: Playwright drives a real session → Remotion frames → ffmpeg to 
 -->
 
 <p align="center">
-  <img src="./assets/noderoom-hero.svg" alt="NodeRoom — Live Startup Diligence War Room: humans + NodeAgents editing a shared diligence sheet without clobbering" width="820">
+  <img src="./assets/noderoom-hero.gif" alt="NodeRoom — Live Startup Diligence War Room: humans + NodeAgents run shared research on a live diligence sheet — lock → draft → smart-merge with no-clobber proof" width="820">
 </p>
 
 ---
