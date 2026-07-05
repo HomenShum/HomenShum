@@ -55,10 +55,12 @@ Capture rig: Playwright drives a real session → Remotion frames → ffmpeg to 
 | **[nodebench-ai](https://github.com/HomenShum/nodebench-ai)** | Research engine | Entity intelligence for any company, market, or question — searches + synthesizes with sources, turns each run into a reusable artifact, and ships a hosted public-research MCP. |
 | **[NodeAgent](https://github.com/HomenShum/NodeAgent)** | Agent kernel | The distilled core of NodeBench — one loop, four tool UIs: live context, grounded/cited search, a versioned spreadsheet delta, and a TipTap notebook memo. |
 | **[feature-walkthrough-gif](https://github.com/HomenShum/feature-walkthrough-gif)** | Proof / media | Playwright → Remotion → ffmpeg turns any feature into an annotated walkthrough GIF — and because it's scripted, the GIFs double as an integration smoke-test. |
-| **[parity-studio](https://github.com/HomenShum/parity-studio)** | Visual QA | Image (or live app route) → verified componentized `ui_kit`, self-judged on a 16-check deterministic rubric with honest score drift before any agent touches production. |
-| **[LLM-Prior-Authorization…](https://github.com/HomenShum/LLM-Prior-Authorization-Form-Auto-Fill-System-With-Eval)** | Regulated workflow | LLMs auto-fill prior-auth forms from patient notes — structured extraction, a validation pass, and an LLM-as-a-Judge eval that scores on clinical knowledge, not string match. |
+| **[local-collab-mvp](https://github.com/HomenShum/local-collab-mvp)** | Room OS | Why co-located voice agents collapse into "yeah, exactly…" loops — and the fix: one server-authoritative room state (floor control, deterministic reducer), proven by side-by-side bad/good traces and a measured 6-model coordinator eval. |
+| **[proofloop](https://github.com/HomenShum/proofloop)** | Completion gate | Bring any coding agent — proofloop blocks "done" until an executable proof gate passes: Stop-hook refusal, agent-tamper-proof proof state, fail-closed tool contracts. Zero runtime dependencies. |
 
 <sub>Productivity infra: **[gmail-workspace-public](https://github.com/HomenShum/gmail-workspace-public)** (large inbox → one queue, one decision; private data stays local, public research delegated to NodeBench) · **[agent-workspace-template](https://github.com/HomenShum/agent-workspace-template)** (reusable Convex/Next agent-workspace runtime).</sub>
+
+<sub>Also fresh (Jun–Jul 2026): **[noderl](https://github.com/HomenShum/noderl)** (agentic-RL substrate: trace → reward → memory → repair; 100/100 benchmark tasks scored with zero answer-key writers) · **[NodeMem](https://github.com/HomenShum/NodeMem)** (passive agent memory behind a 6-gate suppression pipeline) · **[visual-judge](https://github.com/HomenShum/visual-judge)** (deterministic browser evidence + a Gemini video critic) · **[solo-founder-agent-builder](https://github.com/HomenShum/solo-founder-agent-builder)** (one-prompt build run passing 32/33 executable proof gates).</sub>
 
 ---
 
@@ -69,10 +71,12 @@ flowchart LR
     NB["NodeBench AI<br/>research / diligence engine<br/>sourced dossiers · MCP"]
     NA["NodeAgent<br/>distilled agent kernel<br/>one loop · four tool UIs"]
     NR["NodeRoom<br/>CURRENT FLAGSHIP<br/>live room · lock→draft→merge"]
-    PF["Proof<br/>reproducible walkthroughs<br/>that double as smoke-tests"]
+    RO["Room OS<br/>shared-state voice agents<br/>floor control · loop suppression"]
+    PF["Proof<br/>walkthrough GIFs + proofloop gates<br/>demos that double as tests"]
 
     NB -->|distill the core| NA
     NA -->|put humans + agents in one room| NR
+    NR -->|many agents, one floor| RO
     NR -->|ship review-ready artifacts| PF
 
     style NR fill:#111,color:#fff,stroke:#111
@@ -112,6 +116,8 @@ Multiple humans and multiple NodeAgents research companies **in one live room** 
 
 | Project | Signal |
 | --- | --- |
+| [parity-studio](https://github.com/HomenShum/parity-studio) | Image (or live app route) → verified componentized `ui_kit`, self-judged on a 16-check deterministic rubric with honest score drift. |
+| [LLM Prior Authorization](https://github.com/HomenShum/LLM-Prior-Authorization-Form-Auto-Fill-System-With-Eval) | LLMs auto-fill prior-auth forms from patient notes — structured extraction, validation pass, LLM-as-a-Judge eval scored on clinical knowledge. |
 | [Banking assistant](https://github.com/HomenShum/Banking_assistant_streamlit) | Finance-document assistant for company/PDF analysis — the diligence reflex, pre-NodeBench. |
 | [openai-agent-eval-framework](https://github.com/HomenShum/openai-agent-eval-framework) | Agent evaluation for classification, context verification, and pruning — the eval discipline, early. |
 | [CosmaNeura med billing](https://github.com/HomenShum/CosmaNeura-Med-Billing) | ICD/CPT recommendation from physician dictation — regulated extraction before the prior-auth system. |
