@@ -11,7 +11,7 @@
 <p align="center">
   <a href="https://github.com/HomenShum/noderoom"><img src="https://img.shields.io/badge/flagship-NodeRoom-111?style=flat" alt="NodeRoom"></a>
   <a href="https://www.linkedin.com/in/homen-shum/"><img src="https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <img src="https://komarev.com/ghpvc/?username=HomenShum&color=111&style=flat" alt="profile views">
+  <img src="https://komarev.com/ghpvc/?username=HomenShum&color=181717&style=flat" alt="profile views">
 </p>
 
 <p align="center">
