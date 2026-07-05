@@ -66,6 +66,8 @@ Capture rig: Playwright drives a real session → Remotion frames → ffmpeg to 
 
 ### 🧬 The lineage
 
+<sub>📜 Context: **[TIMELINE.md](./TIMELINE.md)** — the field's viral agent moments (ELIZA → scratchpads → AutoGPT → Manus), the layer every one of them was missing, and where each repo below sits on that map.</sub>
+
 ```mermaid
 flowchart LR
     NB["NodeBench AI<br/>research / diligence engine<br/>sourced dossiers · MCP"]
@@ -131,5 +133,7 @@ Multiple humans and multiple NodeAgents research companies **in one live room** 
 ### 💡 What I care about
 
 **The agent should leave receipts.** Sources on every claim, a version on every edit, an eval on every answer, and a demo anyone can reproduce. High-trust work doesn't get faster by trusting the model more — it gets faster by making the model *checkable*.
+
+Autonomous task horizons are [doubling roughly every seven months](https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/). When AI labor becomes schedulable, the hard questions stop being "how smart" and become *who owns the state, who audits the decisions, who holds the floor, who can pause the fleet.* Chat windows don't answer those questions — **rooms do**. That's the bet behind everything above ([the full timeline →](./TIMELINE.md)).
 
 📫 [LinkedIn](https://www.linkedin.com/in/homen-shum/) · `hshum2018@gmail.com`
