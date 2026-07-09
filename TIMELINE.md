@@ -54,15 +54,15 @@ Every fragment went viral. And every fragment **failed the same way in productio
 
 | The recurring failure | The field's viral example | What I shipped against it |
 | --- | --- | --- |
-| Thinks, but invisibly | scratchpads → o1 | **[nodetrace](https://github.com/HomenShum/nodetrace)** — cmd-click any UI surface, see the agent trace behind it |
-| Loops, but lies about "done" | AutoGPT wave | **[proofloop](https://github.com/HomenShum/proofloop)** — a Stop-hook supervisor: the agent may claim, only the executable gate certifies |
+| Thinks, but invisibly | scratchpads → o1 | **[NodeTrace](https://github.com/HomenShum/NodeTrace)** — cmd-click any UI surface, see the agent trace behind it |
+| Loops, but lies about "done" | AutoGPT wave | **[NodeProof](https://github.com/HomenShum/NodeProof)** — a Stop-hook supervisor: the agent may claim, only the executable gate certifies |
 | Remembers, then over-acts on it | Generative Agents | **[NodeMem](https://github.com/HomenShum/NodeMem)** — notice passively, act explicitly: a 6-gate suppression pipeline between detection and action |
-| Judged by vibes | benchmark-chart drama | **[visual-judge](https://github.com/HomenShum/visual-judge)** + eval harnesses I built at Meta PQX — deterministic evidence first, model judgment second |
-| Collaborates, but clobbers | multi-agent frameworks | **[noderoom](https://github.com/HomenShum/noderoom)** — lock → draft → smart-merge, per-element CAS: humans and agents edit the same sheet, nobody's work is silently overwritten |
-| Talks together, loops forever | voice-agent demos | **[local-collab-mvp / Room OS](https://github.com/HomenShum/local-collab-mvp)** — a server-authoritative room (floor control, deterministic reducer) with live side-by-side proof and on-screen model provenance |
+| Judged by vibes | benchmark-chart drama | **[VisualJudge](https://github.com/HomenShum/VisualJudge)** + eval harnesses I built at Meta PQX — deterministic evidence first, model judgment second |
+| Collaborates, but clobbers | multi-agent frameworks | **[NodeRoom](https://github.com/HomenShum/NodeRoom)** — lock → draft → smart-merge, per-element CAS: humans and agents edit the same sheet, nobody's work is silently overwritten |
+| Talks together, loops forever | voice-agent demos | **[NodeVoice](https://github.com/HomenShum/NodeVoice)** — a server-authoritative room (floor control, deterministic reducer) with live side-by-side proof and on-screen model provenance |
 | Acts, but unaudited | Operator/Manus era | Receipts everywhere: versioned edits, source-backed claims, provenance badges, replayable traces — across all of the above |
 
-The lineage in one line: **[NodeBench](https://github.com/HomenShum/nodebench-ai)** (research engine) → **[NodeAgent](https://github.com/HomenShum/NodeAgent)** (agent kernel) → **[NodeRoom](https://github.com/HomenShum/noderoom)** (humans + agents in one governed room) → **Room OS + proofloop** (coordination and completion authority).
+The lineage in one line: **[NodeBenchAI](https://github.com/HomenShum/NodeBenchAI)** (research engine) → **[NodeAgent](https://github.com/HomenShum/NodeAgent)** (agent kernel) → **[NodeRoom](https://github.com/HomenShum/NodeRoom)** (humans + agents in one governed room) → **NodeVoice + NodeProof** (coordination and completion authority).
 
 ## Where this goes — 2027, 2028
 

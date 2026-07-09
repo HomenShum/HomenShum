@@ -1,9 +1,9 @@
 <svg width="520" height="168" viewBox="0 0 520 168" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">gmail-workspace-public</title>
+  <title id="title">GmailInbox</title>
   <desc id="desc">Public-safe Gmail command center for inbox lanes, job triage, pinned context, and private agent workflows.</desc>
   <rect x="1" y="1" width="518" height="166" rx="14" fill="#F8FAFC" stroke="#D8DEE9" stroke-width="2"/>
   <circle cx="35" cy="34" r="12" fill="#F59E0B"/>
-  <text x="58" y="39" fill="#0F172A" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="22" font-weight="700">gmail-workspace-public</text>
+  <text x="58" y="39" fill="#0F172A" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="22" font-weight="700">GmailInbox</text>
   <text x="24" y="74" fill="#475569" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15">Public-safe local-first Gmail command center for</text>
   <text x="24" y="96" fill="#475569" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15">inbox lanes, job triage, pinned context, and agents.</text>
   <rect x="24" y="120" width="92" height="24" rx="12" fill="#EEF2FF"/>

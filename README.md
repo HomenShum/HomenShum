@@ -1,6 +1,6 @@
 <h2 align="center">👋 Hi, I'm Homen Shum</h2>
 
-<h3 align="center">Building <a href="https://github.com/HomenShum/noderoom">NodeRoom</a> — a live room where humans and AI agents do high-trust research together, without clobbering each other.</h3>
+<h3 align="center">Building <a href="https://github.com/HomenShum/NodeRoom">NodeRoom</a> — a live room where humans and AI agents do high-trust research together, without clobbering each other.</h3>
 
 <p align="center"><em>A career, compiled: banking/finance → data engineering → agentic AI, converging on human-agent collaboration systems where the agent leaves receipts.</em></p>
 
@@ -9,7 +9,7 @@
 </sub></p>
 
 <p align="center">
-  <a href="https://github.com/HomenShum/noderoom"><img src="https://img.shields.io/badge/flagship-NodeRoom-111?style=flat" alt="NodeRoom"></a>
+  <a href="https://github.com/HomenShum/NodeRoom"><img src="https://img.shields.io/badge/flagship-NodeRoom-111?style=flat" alt="NodeRoom"></a>
   <a href="https://www.linkedin.com/in/homen-shum/"><img src="https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <img src="https://komarev.com/ghpvc/?username=HomenShum&color=181717&style=flat" alt="profile views">
 </p>
@@ -51,16 +51,16 @@ Capture rig: Playwright drives a real session → Remotion frames → ffmpeg to 
 
 | Repo | Layer | What it is |
 | --- | --- | --- |
-| **[noderoom](https://github.com/HomenShum/noderoom)** ⭐ | **Current flagship** | Live multi-panel room where humans + NodeAgents edit a shared spreadsheet, note, and post-it wall through one versioned concurrency model — `lock → draft → smart-merge`, no-clobber, per-element CAS. |
-| **[nodebench-ai](https://github.com/HomenShum/nodebench-ai)** | Research engine | Entity intelligence for any company, market, or question — searches + synthesizes with sources, turns each run into a reusable artifact, and ships a hosted public-research MCP. |
+| **[NodeRoom](https://github.com/HomenShum/NodeRoom)** ⭐ | **Current flagship** | Live multi-panel room where humans + NodeAgents edit a shared spreadsheet, note, and post-it wall through one versioned concurrency model — `lock → draft → smart-merge`, no-clobber, per-element CAS. |
+| **[NodeBenchAI](https://github.com/HomenShum/NodeBenchAI)** | Research engine | Entity intelligence for any company, market, or question — searches + synthesizes with sources, turns each run into a reusable artifact, and ships a hosted public-research MCP. |
 | **[NodeAgent](https://github.com/HomenShum/NodeAgent)** | Agent kernel | The distilled core of NodeBench — one loop, four tool UIs: live context, grounded/cited search, a versioned spreadsheet delta, and a TipTap notebook memo. |
-| **[feature-walkthrough-gif](https://github.com/HomenShum/feature-walkthrough-gif)** | Proof / media | Playwright → Remotion → ffmpeg turns any feature into an annotated walkthrough GIF — and because it's scripted, the GIFs double as an integration smoke-test. |
-| **[local-collab-mvp](https://github.com/HomenShum/local-collab-mvp)** | Room OS | Why co-located voice agents collapse into "yeah, exactly…" loops — and the fix: one server-authoritative room state (floor control, deterministic reducer), proven by side-by-side bad/good traces and a measured 6-model coordinator eval. |
-| **[proofloop](https://github.com/HomenShum/proofloop)** | Completion gate | Bring any coding agent — proofloop blocks "done" until an executable proof gate passes: Stop-hook refusal, agent-tamper-proof proof state, fail-closed tool contracts. Zero runtime dependencies. |
+| **[FeatureClipStudio](https://github.com/HomenShum/FeatureClipStudio)** | Proof / media | Playwright → Remotion → ffmpeg turns any feature into an annotated walkthrough GIF — and because it's scripted, the GIFs double as an integration smoke-test. |
+| **[NodeVoice](https://github.com/HomenShum/NodeVoice)** | Voice rooms | Why co-located voice agents collapse into "yeah, exactly…" loops — and the fix: one server-authoritative room state (floor control, deterministic reducer), proven by side-by-side bad/good traces and a measured 6-model coordinator eval. |
+| **[NodeProof](https://github.com/HomenShum/NodeProof)** | Completion gate | Bring any coding agent — NodeProof blocks "done" until an executable proof gate passes: Stop-hook refusal, agent-tamper-proof proof state, fail-closed tool contracts. Zero runtime dependencies. |
 
-<sub>Productivity infra: **[gmail-workspace-public](https://github.com/HomenShum/gmail-workspace-public)** (large inbox → one queue, one decision; private data stays local, public research delegated to NodeBench) · **[agent-workspace-template](https://github.com/HomenShum/agent-workspace-template)** (reusable Convex/Next agent-workspace runtime).</sub>
+<sub>Productivity infra: **[GmailInbox](https://github.com/HomenShum/GmailInbox)** (large inbox → one queue, one decision; private data stays local, public research delegated to NodeBench) · **[agent-workspace-template](https://github.com/HomenShum/agent-workspace-template)** (reusable Convex/Next agent-workspace runtime).</sub>
 
-<sub>Also fresh (Jun–Jul 2026): **[noderl](https://github.com/HomenShum/noderl)** (agentic-RL substrate: trace → reward → memory → repair; 100/100 benchmark tasks scored with zero answer-key writers) · **[NodeMem](https://github.com/HomenShum/NodeMem)** (passive agent memory behind a 6-gate suppression pipeline) · **[visual-judge](https://github.com/HomenShum/visual-judge)** (deterministic browser evidence + a Gemini video critic) · **[solo-founder-agent-builder](https://github.com/HomenShum/solo-founder-agent-builder)** (one-prompt build run passing 32/33 executable proof gates).</sub>
+<sub>Also fresh (Jun–Jul 2026): **[NodeRL](https://github.com/HomenShum/NodeRL)** (agentic-RL substrate: trace → reward → memory → repair; 100/100 benchmark tasks scored with zero answer-key writers) · **[NodeMem](https://github.com/HomenShum/NodeMem)** (passive agent memory behind a 6-gate suppression pipeline) · **[VisualJudge](https://github.com/HomenShum/VisualJudge)** (deterministic browser evidence + a Gemini video critic) · **[solo-founder-agent-builder](https://github.com/HomenShum/solo-founder-agent-builder)** (one-prompt build run passing 32/33 executable proof gates).</sub>
 
 ---
 
@@ -73,8 +73,8 @@ flowchart LR
     NB["NodeBench AI<br/>research / diligence engine<br/>sourced dossiers · MCP"]
     NA["NodeAgent<br/>distilled agent kernel<br/>one loop · four tool UIs"]
     NR["NodeRoom<br/>CURRENT FLAGSHIP<br/>live room · lock→draft→merge"]
-    RO["Room OS<br/>shared-state voice agents<br/>floor control · loop suppression"]
-    PF["Proof<br/>walkthrough GIFs + proofloop gates<br/>demos that double as tests"]
+    RO["NodeVoice<br/>shared-state voice agents<br/>floor control · loop suppression"]
+    PF["Proof<br/>walkthrough GIFs + NodeProof gates<br/>demos that double as tests"]
 
     NB -->|distill the core| NA
     NA -->|put humans + agents in one room| NR

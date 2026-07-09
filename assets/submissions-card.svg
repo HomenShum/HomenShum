@@ -1,9 +1,9 @@
 <svg width="520" height="168" viewBox="0 0 520 168" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">easier-to-read-submissions</title>
+  <title id="title">BetterPRHandoff</title>
   <desc id="desc">Protocol for readable agent and developer handoffs with changelog lanes, verified demo artifacts, QA dogfood, and ASCII runtime diagrams.</desc>
   <rect x="1" y="1" width="518" height="166" rx="14" fill="#F8FAFC" stroke="#D8DEE9" stroke-width="2"/>
   <circle cx="35" cy="34" r="12" fill="#7C3AED"/>
-  <text x="58" y="39" fill="#0F172A" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="22" font-weight="700">easier-to-read-submissions</text>
+  <text x="58" y="39" fill="#0F172A" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="22" font-weight="700">BetterPRHandoff</text>
   <text x="24" y="74" fill="#475569" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15">Readable agent/dev handoffs with changelog lanes,</text>
   <text x="24" y="96" fill="#475569" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15">verified demo artifacts, QA dogfood, and diagrams.</text>
   <rect x="24" y="120" width="92" height="24" rx="12" fill="#EEF2FF"/>
