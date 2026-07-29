@@ -36,15 +36,16 @@ Rule 2 is not theory. Planted bugs are how I learned that a passing check often 
 | **Doctrine** | [proof-driven-development](https://github.com/HomenShum/proof-driven-development) |
 | **Reference implementation** | [NodeProof](https://github.com/HomenShum/NodeProof) &mdash; executable proof gates that block unsupported completion claims |
 | **Components** | [NodeRL](https://github.com/HomenShum/NodeRL) (task evaluation) &middot; [NodeTrace](https://github.com/HomenShum/NodeTrace) (surface to span) &middot; [NodeMem](https://github.com/HomenShum/NodeMem) (memory gates) &middot; [agentic-ui-qa](https://github.com/HomenShum/agentic-ui-qa) (artifact-only completion) &middot; [AgentRedteam](https://github.com/HomenShum/AgentRedteam) |
-| **Applications** | [NodeRoom](https://github.com/HomenShum/NodeRoom) (live human-agent workspace) &middot; [NodeBenchAI](https://github.com/HomenShum/NodeBenchAI) (entity intelligence) |
+| **Instruments** | [FeatureClipStudio](https://github.com/HomenShum/FeatureClipStudio) (walkthrough clips as reproducible proof media) &middot; [NodeAgent](https://github.com/HomenShum/NodeAgent) (the distilled core, with its public conformance suite) |
+| **Applications** | [NodeRoom](https://github.com/HomenShum/NodeRoom) &mdash; **the flagship**: a live human-agent workspace, in production at [noderoom.live](https://noderoom.live) &middot; [NodeBenchAI](https://github.com/HomenShum/NodeBenchAI) (entity intelligence, live at [nodebenchai.com](https://nodebenchai.com)) &middot; [NodeVoice](https://github.com/HomenShum/NodeVoice) (shared-state voice rooms) |
 
-One idea. The rest are parts of it.
+One idea. The rest are parts of it. If you only open two: the doctrine page, then NodeRoom &mdash; the method and the thing it built.
 
 ### Background
 
 3.5 years inside JPMorgan commercial banking: credit underwriting, covenant analysis, and startup banking. 72 credit transactions, roughly $800M in aggregate exposure, 270 financial models. Then I became the engineer who builds the AI that automates that work.
 
-Strongest where regulated, document-heavy workflows need agents somebody can actually check.
+The role this points at is **forward-deployed / applied AI engineering**: strongest where regulated, document-heavy workflows need agents somebody can actually check.
 
 ### Contact
 
