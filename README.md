@@ -1,6 +1,11 @@
-<h2 align="center">Homen Shum</h2>
-
-<h3 align="center">An agent's claim that it finished is worthless unless the proof could have failed.</h3>
+<a href="https://homenshum.github.io/">
+  <picture>
+    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/brand/compact-dark.svg">
+    <source media="(max-width: 600px)" srcset="assets/brand/compact-light.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/brand/banner-dark.svg">
+    <img alt="Homen Shum: An agent's claim that it finished is worthless unless the proof could have failed." src="assets/brand/banner-light.svg" width="100%">
+  </picture>
+</a>
 
 <p align="center">
 I build the evidence layer that makes agent work checkable.<br>
@@ -40,6 +45,19 @@ Rule 2 is not theory. Planted bugs are how I learned that a passing check often 
 | **Applications** | [NodeRoom](https://github.com/HomenShum/NodeRoom) &mdash; **the flagship**: a live human-agent workspace, in production at [noderoom.live](https://noderoom.live) &middot; [NodeBenchAI](https://github.com/HomenShum/NodeBenchAI) (entity intelligence, live at [nodebenchai.com](https://nodebenchai.com)) &middot; [NodeVoice](https://github.com/HomenShum/NodeVoice) (shared-state voice rooms) |
 
 One idea. The rest are parts of it. If you only open two: the doctrine page, then NodeRoom &mdash; the method and the thing it built.
+
+### Selected projects
+
+<p align="center">
+<a href="https://github.com/HomenShum/NodeRoom"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/NodeRoom-dark.svg"><img alt="NodeRoom: Humans and agents edit one room together, without clobbering each other." src="assets/cards/NodeRoom-light.svg" width="49%"></picture></a>
+<a href="https://github.com/HomenShum/NodeBenchAI"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/NodeBenchAI-dark.svg"><img alt="NodeBench AI: Entity intelligence for any company, market, or question." src="assets/cards/NodeBenchAI-light.svg" width="49%"></picture></a>
+<a href="https://github.com/HomenShum/NodeAgent"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/NodeAgent-dark.svg"><img alt="NodeAgent: The room asks. The agent answers — with sources, a model, and a memo." src="assets/cards/NodeAgent-light.svg" width="49%"></picture></a>
+<a href="https://github.com/HomenShum/NodeProof"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/NodeProof-dark.svg"><img alt="NodeProof: Runs your gate on coding-agent work and records the verdict." src="assets/cards/NodeProof-light.svg" width="49%"></picture></a>
+<a href="https://github.com/HomenShum/NodeVoice"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/NodeVoice-dark.svg"><img alt="NodeVoice: Shared state for voice agents that speak in the same room." src="assets/cards/NodeVoice-light.svg" width="49%"></picture></a>
+<a href="https://github.com/HomenShum/FeatureClipStudio"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/FeatureClipStudio-dark.svg"><img alt="FeatureClipStudio: Turn live product flows into storyboarded proof clips." src="assets/cards/FeatureClipStudio-light.svg" width="49%"></picture></a>
+</p>
+
+<p align="center"><a href="https://homenshum.github.io/"><b>All 19 projects, grouped by layer →</b></a></p>
 
 ### Background
 
