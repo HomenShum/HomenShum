@@ -14,6 +14,19 @@ I build the evidence layer that makes agent work checkable.<br>
 
 ---
 
+### Build or adopt a project
+
+For developers and coding agents, start with the job you need to finish:
+
+| Your task | Start here |
+| --- | --- |
+| Turn a brief into an agent application | [NodeKit's first-run guide](https://github.com/HomenShum/NodeKit/blob/main/START_HERE.md) |
+| Find the repository that owns a capability | [NodeKit's repository directory](https://github.com/HomenShum/NodeKit#repository-directory) |
+| Make a branch understandable to the next developer or agent | [BetterPRHandoff](https://github.com/HomenShum/BetterPRHandoff) |
+
+Use each project's own setup, agent instructions and evidence limits before editing.
+These links help you choose a starting point; they do not certify every project's readiness.
+
 ### The method
 
 **[Proof-Driven Development](https://github.com/HomenShum/proof-driven-development)** rests on three rules:
